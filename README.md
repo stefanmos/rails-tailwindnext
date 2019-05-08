@@ -1,24 +1,4 @@
-# README
+# Rails Tailwindcss Starter Template
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I published an walkthrough article on Medium if you want to know more:
+https://medium.com/@stefanmostert/rails-tailwindcss-setup-on-heroku-8a8d787586eb
