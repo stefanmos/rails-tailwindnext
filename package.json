@@ -1,0 +1,11 @@
+{
+  "name": "rails-tailwindnext",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^4.0.2",
+    "tailwindcss": "^1.0.0-beta.8"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.3.1"
+  }
+}
